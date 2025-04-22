@@ -48,5 +48,4 @@ An ensemble method that builds multiple decision trees and merges them to get a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vegetable-classification.git
-   cd vegetable-classification
+   git clone https://github.com/Abhinendra-githu/8_Classify-Vegetables-Based-on-Nutritional-Content_202401100400008
