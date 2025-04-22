@@ -43,8 +43,7 @@ An ensemble method that builds multiple decision trees and merges them to get a 
 - scikit-learn
 
 ---
-##Output
-![Screenshot 2025-04-22 151304](https://github.com/user-attachments/assets/716da2be-417f-4b36-b000-26c0fb3797e8)
+
 
 
 ## 🖥️ How to Run
